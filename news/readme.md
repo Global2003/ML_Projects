@@ -1,1 +1,2 @@
-Made a NLP project where model will detect fake news or not
+# Made a NLP project where model will detect fake news or not
+## Model: Logistic Regression
